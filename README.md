@@ -91,3 +91,7 @@ Page replacement programs accept up to 100 nonnegative page numbers and up to
 - [Child sends even numbers to parent through a pipe](September25/child_write_even_numbers_pipe.c)
 - [Pipe example with child exit-status checking](September25/child_write_even_numbers_pipe_wait_status.c)
 - [Zombie process placeholder (empty)](September25/zombie_process_demo.c)
+
+## AI assistance
+
+Copilot was used to structure this README.
